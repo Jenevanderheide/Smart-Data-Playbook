@@ -1,6 +1,6 @@
 **[Inhoud](ToC.md)**
 
-Hierkomt een overzicht van interessante bronnen
+Overzicht van interessante bronnen die gebruikt zijn in dit Kookboek:
 
 * Citizen-Driven Innovation: A Guidebook for City Mayors and Public Administrators, Worldbank [> Bron](https://openknowledge.worldbank.org/handle/10986/21984)
 * Datakookboek Smart Mobility, Metropoolregio Amsterdam [> Bron](https://smartmobilitymra.nl/datakookboek-smart-mobility/)
