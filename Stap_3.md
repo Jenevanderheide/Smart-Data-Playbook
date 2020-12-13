@@ -2,10 +2,10 @@
 
 ### :three: Stap 3: Verzamel de data
 
-Een oefening die kan helpen om de juiste data te verzamelen voor het beantwoorden van de vraag is het invullen van onderstaande matrix.
+Een oefening die kan helpen om de juiste data te verzamelen is het invullen van onderstaande matrix. 
+De eerste stap is om gedurende 15 minuten zoveel mogelijk potentiële databronnen te benoemen. Vervolgens kunnen deze bronnen geordend worden in de vier kwadranten. Datasets die eenvoudig verkrijgbaar én waardevol zijn voor het beantwoorden van de vraag, zijn een goed startpunt voor de volgende fase van het project.
 
 > Tip: kijk bij de analyse van gewenste databronnen niet alleen binnen de eigen organisatie. Er zijn veel waardevolle externe (open) databronnen.
-
 
 ![Datamatrix](/datamatrix.png)
 
