@@ -17,7 +17,8 @@ Enkele voorbeelden van standaardisatie:
 + Notatie van adres, etage, postcode in aparte velden, met consistentie notatie
 + Lichtmasten identificatie op basis van uniek nummer
 
-*** Data en privacy
+### Data en privacy
+Vaak zal het vanwege privacy-overwegingen nodig zijn om data te bewerken voordat het gebruikt kan worden. Dat kan bijvoorbeeld door data te anonimiseren of te pseudonimiseren. De publicatie "Datakookboek Smart Mobility" geeft op pagina 9 en 10 een goede beschrijving over dit onderwerp ([zie bibiotheek](Bibliotheek.md).
 
 
 **[Inhoud](ToC.md)**
