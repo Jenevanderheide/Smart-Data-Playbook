@@ -17,4 +17,7 @@ Enkele voorbeelden van standaardisatie:
 + Notatie van adres, etage, postcode in aparte velden, met consistentie notatie
 + Lichtmasten identificatie op basis van uniek nummer
 
+*** Data en privacy
+
+
 **[Inhoud](ToC.md)**
