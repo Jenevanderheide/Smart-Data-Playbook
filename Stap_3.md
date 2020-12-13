@@ -7,6 +7,7 @@ Een oefening die kan helpen om de juiste data te verzamelen voor het beantwoorde
 > Tip: kijk bij de analyse van gewenste databronnen niet alleen binnen de eigen organisatie. Er zijn veel waardevolle externe (open) databronnen.
 
 
+![Wateroverlast](/datamatrix.png)
 
 ## Voorbeelden van externe databronnen
 
