@@ -7,5 +7,6 @@ Overzicht van interessante bronnen die gebruikt zijn in dit Kookboek:
 * Koken met Data, VNG: [> Bron](https://publicaties.vngrealisatie.nl/2017/koken-met-data/#!/voorblad)
 * Regie op data uit de stad, VNG Realisatie [> Bron](https://www.vngrealisatie.nl/nieuws/regie-op-data-uit-de-stad)
 * The Human Smart Cities Cookbook [> Bron](http://www.planum.net/peripheria-the-human-smart-cities-cookbook)
+* Boston Smart City Playbook [> Bron](https://monum.github.io/playbook/)
 
 **[Inhoud](ToC.md)**
