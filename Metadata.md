@@ -1,3 +1,5 @@
+**[Inhoud](ToC.md)**
+
 Een andere belangrijke hulp bij het bepalen van de kwaliteit en mogelijke relevantie van een dataset, is metadata. 
 
 > Als je de gebruikers van de data niet vertelt wat het is, hoe actueel het is en hoe het kan worden gebruikt, hoe kun je dan verwachten dat ze het effectief gebruiken?
@@ -22,3 +24,5 @@ Voor geografische data is er de ISO 19115-standaard. Op de site van Geonovum is 
 * Dekking: beslaat de data het gebied of de tijdsperiode waarover het gaat? Vaak is het namelijk wel mogelijk om een goede databron te vinden, maar die is niet dekkend voor het hele gebied. Of voor een hele period.
 
 Naast metadata, zijn datamodellen een andere belangrijke manier om de kwaliteit van een databron te bepalen en te verbeteren.
+
+**[Inhoud](ToC.md)**
