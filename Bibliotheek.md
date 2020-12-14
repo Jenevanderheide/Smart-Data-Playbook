@@ -10,5 +10,6 @@ Overzicht van interessante bronnen die gebruikt zijn in dit Kookboek:
 * Regie op data uit de stad, VNG Realisatie [> Bron](https://www.vngrealisatie.nl/nieuws/regie-op-data-uit-de-stad)
 * The Human Smart Cities Cookbook [> Bron](http://www.planum.net/peripheria-the-human-smart-cities-cookbook)
 * Boston Smart City Playbook [> Bron](https://monum.github.io/playbook/)
+* The Analytics Playbook for Cities, Ash Center for Democratic Governance and Innovation - Harvard Kennedy School [> Bron](https://ash.harvard.edu/publications/analytics-playbook-cities-navigational-tool-understanding-data-analytics-local)
 
 **[Inhoud](ToC.md)**
