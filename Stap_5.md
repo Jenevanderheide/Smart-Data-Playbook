@@ -17,6 +17,10 @@ Enkele voorbeelden van standaardisatie:
 + Notatie van adres, etage, postcode in aparte velden, met consistentie notatie
 + Lichtmasten identificatie op basis van uniek nummer
 
+### Data combineren
+
+Standaardisatie helpt om verschillende databronnen te combineren en in samenhang te presenteren. Zo is het makkelijker om één gecombineerde databron te hebben met alle lichtmasten in Nederland in plaats van 355 losse datasets per gemeente. Het prepareren van data zodat het gecombineerd kan worden tot één bron, vergt doorgaans de inzet van specifieke software. Deze software zorgt dat inhoudelijke velden gematcht worden. In het voorbeeld van de lichtmasten, blijkt bijvoorbeeld dat er veel verschillende manieren/woorden voorkomen om een unieke mast te identificeren (mastnr, mastnummer, mastID, etc.). Combineren van data vereist eenduidigheid over begrippen en standaardisatie van de informatie. Wat voor lichtmasten geldt, geldt voor veel andere onderwerpen (meldingen openbare ruimte, bomen, ..).
+
 ### Data en privacy
 Vaak zal het vanwege privacy-overwegingen nodig zijn om data te bewerken voordat het gebruikt kan worden. Dat kan bijvoorbeeld door data te anonimiseren of te pseudonimiseren. De publicatie "Datakookboek Smart Mobility" geeft op pagina 9 en 10 een goede beschrijving over dit onderwerp ([> zie bibliotheek](Bibliotheek.md)).
 
