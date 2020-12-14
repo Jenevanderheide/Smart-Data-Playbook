@@ -1,9 +1,3 @@
----
-id: metamorphoses_metadata
-title: Metadata
-sidebar_label: Metadata
----
-
 Een andere belangrijke hulp bij het bepalen van de kwaliteit en mogelijke relevantie van een dataset, is metadata. 
 
 > Als je de gebruikers van de data niet vertelt wat het is, hoe actueel het is en hoe het kan worden gebruikt, hoe kun je dan verwachten dat ze het effectief gebruiken?
