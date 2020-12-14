@@ -9,7 +9,7 @@ De meest gebruikte manier is het aanbieden van een downloadbaar bestand, bijvoor
 ### API´s en webservices
 Een andere manier is het bieden van een API (Application Programming Interface) of webservices [^1]. Dit is als het ware een online stopcontact om permanent data op te vragen. Het grote voordeel is dat het gebruik van de data beter te monitoren is, dat de gebruiker altijd beschikt over de meest recente data en die data niet zelf hoeft op te slaan. Voor beleidsmonitoring zijn API’s of webservices daarom meer geschikt. Zo wordt in het Digitaal Stelsel Omgevingswet sterk ingezet op de ontwikkeling van open API´s (conform de OpenAPI-specificatie) en komt er een ontwikkelaarsportaal waar alle beschikbare API’s gevonden kunnen worden (inclusief documentatie).
 
-> In de publicatie "Harmonised Smart City APIs - A Cook Book for Cities ([zie bibliotheek](Bibliotheek.md)) worden voordelen van standaard API´s goed beschreven.
+> In de publicatie "Harmonised Smart City APIs - A Cook Book for Cities ([zie bibliotheek](Bibliotheek.md)) worden voordelen van standaard API´s goed beschreven. Daarin wordt ook een stappenplan beschreven hoe je kunt starten met het gebruik van API´s en hoe je dit borgt in de organisatie.
 
 Naast een API zijn er nog enkele manieren om data te ontsluiten. Een aantal voorbeelden van (standaard) services zijn:
 1.	Geo-services, zoals vastgesteld door het Open Geo Consortium (OGC) [^2]
