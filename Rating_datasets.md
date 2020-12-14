@@ -1,8 +1,4 @@
----
-id: metamorphoses_rating_datasets
-title: Rating datasets
-sidebar_label: Rating datasets
----
+**[Inhoud](ToC.md)**
 
 Naast metadata en datamodellen kunnen ook ratings bijdragen aan de bepaling van de kwaliteit van individuele datasets.
 
@@ -45,3 +41,5 @@ Hieronder zijn de eventuele toelichtingen te vinden per dataset. Deze zijn gegro
 | AHN                                                       | Wisselende updatefrequentie, lastig om toe te passen |
 | BAG / NWB                                                 | Combinatie van meerdere 'datasets', dus vraagt iets meer moeite |
 | BRO                                                       | Wordt bijgewerkt als er nieuwe data beschikbaar is, waardoor de recentheid lastig is in te schatten |
+
+**[Inhoud](ToC.md)**
