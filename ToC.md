@@ -16,4 +16,4 @@
 --
 ## [Voorbeelden](examples.md)
 --
-## [Bibiotheek](Bibliotheek.md)
+## [Bibliotheek](Bibliotheek.md)
