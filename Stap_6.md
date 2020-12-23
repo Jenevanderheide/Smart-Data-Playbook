@@ -1,10 +1,10 @@
 **[Inhoud](ToC.md)**
 
-### :six: Stap 6: Ontsluit de data
+### :six: Stap 6: Publiceer de data
 
-Data kan op verschillende manieren ontsloten worden.
+Om data te kunnen gebruiken, moet het gepubliceerd (en vindbaar) worden. Dat klinkt logisch en toch moeten er de nodige afwegingen gemaakt worden. Eén daarvan gaat over de voorwaarden waaronder de data gepubliceerd wordt. Als data vrijelijk voor iedereen beschikbaar is, zonder beperkingen, praten we over open data. Maar data kan ook alleen met bepaalde afdelingen of organisaties gedeeld worden. Veel informatie over de publicatie van data is the vinden op de site van "[The Open Data Institute](https://theodi.org/)". Er zijn veel publicaties te vinden die ingaan op behoeften van verschillende stakeholders en verwijzingen naar nuttige tools.
 
-De meest gebruikte manier is het aanbieden van een downloadbaar bestand, bijvoorbeeld een CSV- of GeoJSON-file. Het nadeel is dat de gebruiker steeds opnieuw het bestand moet downloaden als er een nieuwe versie beschikbaar komt. Veel toepassingen halen eenmalig de data op, slaan die zelf op en gebruiken die om een dashboard of kaart te maken. Het is in die situatie lastig te beoordelen of de meest actuele versie van de data worden gebruikt. En voor de aanbieder/eigenaar van de data is er geen zicht op de toepassingen die gebruik maken van een dataset.
+Een ander aspect van data-publicatie betreft de wijze van ontsluiting. De meest gebruikte manier is het aanbieden van een downloadbaar bestand, bijvoorbeeld een CSV- of GeoJSON-file. Het nadeel is dat de gebruiker steeds opnieuw het bestand moet downloaden als er een nieuwe versie beschikbaar komt. Veel toepassingen halen eenmalig de data op, slaan die zelf op en gebruiken die om een dashboard of kaart te maken. Het is in die situatie lastig te beoordelen of de meest actuele versie van de data worden gebruikt. En voor de aanbieder/eigenaar van de data is er geen zicht op de toepassingen die gebruik maken van een dataset.
 
 ### API´s en webservices
 Een andere manier is het bieden van een API (Application Programming Interface) of webservices [^1]. Dit is als het ware een online stopcontact om permanent data op te vragen. Het grote voordeel is dat het gebruik van de data beter te monitoren is, dat de gebruiker altijd beschikt over de meest recente data en die data niet zelf hoeft op te slaan. Voor beleidsmonitoring zijn API’s of webservices daarom meer geschikt. Zo wordt in het Digitaal Stelsel Omgevingswet sterk ingezet op de ontwikkeling van open API´s (conform de OpenAPI-specificatie) en komt er een ontwikkelaarsportaal waar alle beschikbare API’s gevonden kunnen worden (inclusief documentatie).
