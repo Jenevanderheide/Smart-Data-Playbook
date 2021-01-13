@@ -2,7 +2,7 @@
 
 ### :two: Stap 2: Formuleer indicatoren
 
-Vertaal de sleutelelementen in 1 of meerdere meetbare indicatoren. 
+Vertaal de sleutelelementen in 1 en 2 en 3 of meerdere meetbare indicatoren. 
 Gebruik kritieke prestatie-indicatoren (KPI’s) om meetbare doelstellingen te kunnen formuleren, met een waarde per tijdsperiode. Beleid is dan te monitoren.
 Voorbeelden van KPI’s:
 
