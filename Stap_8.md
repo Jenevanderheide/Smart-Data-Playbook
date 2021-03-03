@@ -3,6 +3,9 @@
 ### :eight: Stap 8: Documenteer de data 
 
 > Leg vast hoe de uiteindelijk berekening tot stand is gekomen, welke data daarvoor gebruikt is, hoe je de data hebt verwerkt, welke filtering je hebt toegepast, wat de voor- en nadelen zijn van het gebruikte model.
+> 
+Organiseer de data levenscyclus. Aandacht voor data management framework hier invoegen; DAMA DMBOK bijvoorbeeld. ![dama dmbok](https://user-images.githubusercontent.com/7631994/109878187-3c9e7400-7c74-11eb-9ad6-6ffe8bc06397.jpg)
+
 
 Aangezien in veel gevallen conclusies zullen worden getrokken op basis van een combinatie van databronnen, is het van belang dat duidelijk is welke individuele datasets zijn gebruikt in een model, simulatie of analyse. In andere woorden, het gehele proces moet controleerbaar zijn.
 
