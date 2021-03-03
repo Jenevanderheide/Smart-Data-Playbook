@@ -4,9 +4,12 @@
 
 ### Inleiding
 
-Overheden willen hun doelstellingen met betrekking tot de kwaliteit van de leefomgeving beter meten, controleren en monitoren. Dit kookboek beschrijft de mogelijkheden die data daarbij kunnen bieden. 
+Overheden willen hun doelstellingen met betrekking tot de kwaliteit van de leefomgeving beter meten, controleren, monitoren en op acteren. Het is noodzakelijk voor excellente uitvoering van het dagelijks werk nu en vooral in de jaren die voor ons liggen om hierbij meer gebruik te maken van data, informatie en technologie. Het zorgt dat we beter voorbereid zijn op verwachte en onverwachte omstandigheden en steeds meer preventief kunnen acteren. Het helpt om de maatschappelijke opgaven steeds slimmer te realiseren. Dit kookboek beschrijft de mogelijkheden die data daarbij kunnen bieden. 
 
-> We leven in een netwerksamenleving waarin data van groot belang zijn voor een efficiënte en succesvolle uitvoering van beleid. Data kan helpen om meer objectieve en feitelijke keuzes te maken. Maar dat gaat niet vanzelf. Data zijn een versimpelde weergave van de werkelijkheid, niet alles is in data te vangen en de data kwaliteit is vaak onvoldoende. Kennis en ervaring blijven belangrijk om tot goed beleid te komen. Data is één van de beschikbare hulpmiddelen. Zorgvuldigheid bij de inzet van data is van groot belang.[^1]
+> We leven in een netwerksamenleving waarin data van groot belang zijn voor een efficiënte en succesvolle uitvoering van beleid. Data kunnen helpen om meer objectieve en feitelijke keuzes te maken. Maar dat gaat niet vanzelf. Data zijn een versimpelde weergave van de werkelijkheid, niet alles is in data te vangen, de data kwaliteit is vaak onvoldoende en het beheren van data geen vanzelfsprekendheid. Kennis en ervaring blijven belangrijk om tot goed beleid te komen. Data is één van de beschikbare hulpmiddelen om bij te dragen aan (de bedoeling van) de leefwereld (zie figuur 1). Het vergt bewust organiseren van de datacyclus om data duurzaam in te kunnen zetten voor de doelen die je stelt.  Zorgvuldigheid bij de inzet van data is van groot belang.[^1]
+
+[hier figuur 1 invoegen]![input kookboek Jene van der Heide](https://user-images.githubusercontent.com/7631994/109874961-17a80200-7c70-11eb-8718-5517fdbf373d.jpg)
+
 
 ### Hoe zit dit kookboek in elkaar?
 
